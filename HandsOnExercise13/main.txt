@@ -1,0 +1,7 @@
+in this exercise their is nothing but in this exercise we understand about (go install .) in terminal
+
+first step open two terminals and in one reach the location path where we used build in and their is an executable file 
+second than in another termianl check use $GOPATH TO CHECK the path and then type (cd $GOPATH)
+Third : so check ls -la their is  a file bin move to it by (cd bin)
+fourth: in first terminal give command go install then check second terminal by ls -la thier will be file of folder HandsOnExercise13
+fifth: this is used to install 
