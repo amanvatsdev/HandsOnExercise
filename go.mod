@@ -1,4 +1,4 @@
-module HandsONExercise
+module github.com/amanvatsdev/HandsOnExercise
 
 go 1.23.4
 
