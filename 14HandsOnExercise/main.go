@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"github.com/amanvatsdev/Learning/23012025/dependecy/Bark"
 	"github.com/amanvatsdev/Learning/23012025/dependecy/Sound"
 )
 
@@ -16,4 +17,6 @@ func main() {
 	Wolf()
 	AdultWolf()
 	Sound.Cat()
+	Bark.Puppy()
+	
 }
